@@ -125,6 +125,7 @@ public class Calculator {
 
         // never reach
         throw new Error();
+        throw new Error();
     }
 
 }
