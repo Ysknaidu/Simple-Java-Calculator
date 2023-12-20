@@ -1,4 +1,4 @@
-/**
+i/**
  * @name        Simple Java Calculator
  * @package     ph.calculator
  * @file        Main.java
@@ -125,7 +125,7 @@ public class Calculator {
 
         // never reach
         throw new Error();
-        throw new Error();
+        
     }
 
 }
